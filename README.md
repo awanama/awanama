@@ -1,0 +1,2 @@
+# awanama
+A new blog
